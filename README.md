@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# SQL-Employee-Analysis
 
 ## Overview
 The large company, Pewlett Hackard, has assigned two tasks: 
